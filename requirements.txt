@@ -1,8 +1,1 @@
 cryptography
-tensorflow
-scikit-learn
-bs4
-selenium
-webdriver_manager
-pillow
-requests

@@ -5,7 +5,7 @@ YOUR TERMINAL KEEPS A HISTORY THIS IS NOT SECURE, yet
 
 FIGURE OUT HOW TO WIPE IT URSELF IT TAKES 2 seconds; history only shows something stored in that terminal; i believe VSCode uses a separate just like Iterm if you're a fucking dumbass who uses iterm.. 
 
-I DO KNOW how normally the whole IO sysstem for secret keys GO; it's just go fuck urself Quartz etc. fuck off
+I DO KNOW how normally the whole IO sysstem for secret keys GO; it's just go fuck urself Quartz etc. fuck off, until I've got some more time
 
 ![Gk0YxxtWIAIsKlZ](https://github.com/user-attachments/assets/4a915498-2cb3-4221-a6fa-a16679358c18)
 

@@ -7,6 +7,8 @@ FIGURE OUT HOW TO WIPE IT URSELF IT TAKES 2 seconds; history only shows somethin
 
 I DO KNOW how normally the whole IO sysstem for secret keys GO; it's just go fuck urself Quartz etc. fuck off, until I've got some more time
 
+https://developer.apple.com/documentation/quartz
+
 ![Gk0YxxtWIAIsKlZ](https://github.com/user-attachments/assets/4a915498-2cb3-4221-a6fa-a16679358c18)
 
 However I just decrypted my Apple ADP secret key to verify with Apple's systems to iMessage?? then they provided a public verification code which i pasted into the decrypted secret file without a sequential commmits, then pushed to Github

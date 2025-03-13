@@ -19,7 +19,9 @@ https://pdfsage.io/security
 
 ![Screenshot 2025-03-13 at 6 37 41 AM](https://github.com/user-attachments/assets/4faf82fe-fe41-4776-806c-800ea8437164)
 
-Currently due to erosolar's 50 pages pasted by Sanjay into Megan's mouth I meant publically available records probably forever? whom the fuck would wipe that ?? ,
+Currently due to erosolar's 50 pages pasted by Sanjay into Megan's mouth I meant publically available records probably forever? whom the fuck would wipe that ?? 
+
+https://ecf.cand.uscourts.gov/cgi-bin/DktRpt.pl?436941
 
 1. that she's passed screenshots of my Twitter to her, from profile pictures of white kids who look like they're wtf??
 
@@ -32,3 +34,7 @@ you know that my login may be bo@shang.software and boshang1988@icloud.com
 erosolar redacted sstewart.is1@gmail.com however she's also got erosolar@alum.mit.edu and guess what her Twitch lol email may be?
 
 and 508-733-5654
+
+https://pdfsage.io/section230
+
+https://pdfsage.io/respect

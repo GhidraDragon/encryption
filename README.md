@@ -45,3 +45,13 @@ Now if I really did watch Twitch what if like people see only "Megan's oral argu
 
 
 https://pdfsage.io/respect
+
+Oh Megan emailed me stringly reminding me again to not contact the defendants because they were represented by counsel; the same ones megan petitioned to be heard orally in front of Judge Hixon
+
+----
+
+However,
+
+California Law does not criminalize harassment if it does not contain threats... so ... Judge Tong baby Dep 505 SF Superior Court awaits you.....
+
+https://github.com/GhidraDragon/hotsiri

@@ -18,3 +18,11 @@ Please hack me Mark Leon!
 https://pdfsage.io/security
 
 ![Screenshot 2025-03-13 at 6 37 41 AM](https://github.com/user-attachments/assets/4faf82fe-fe41-4776-806c-800ea8437164)
+
+Currently due to erosolar's 50 pages pasted by Sanjay into Megan's mouth,
+
+you know that my login may be bo@shang.software and boshang1988@icloud.com 
+
+erosolar redacted sstewart.is1@gmail.com however she's also got erosolar@alum.mit.edu and guess what her Twitch lol email may be?
+
+and 508-733-5654

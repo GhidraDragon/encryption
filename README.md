@@ -21,6 +21,8 @@ https://pdfsage.io/security
 
 Currently due to erosolar's 50 pages pasted by Sanjay into Megan's mouth,
 
+1. that she's passed screenshots of my Twitter to her, from profile pictures of white kids who look like they're wtf??
+
 you know that my login may be bo@shang.software and boshang1988@icloud.com 
 
 erosolar redacted sstewart.is1@gmail.com however she's also got erosolar@alum.mit.edu and guess what her Twitch lol email may be?

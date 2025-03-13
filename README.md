@@ -19,7 +19,7 @@ https://pdfsage.io/security
 
 ![Screenshot 2025-03-13 at 6 37 41 AM](https://github.com/user-attachments/assets/4faf82fe-fe41-4776-806c-800ea8437164)
 
-Currently due to erosolar's 50 pages pasted by Sanjay into Megan's mouth,
+Currently due to erosolar's 50 pages pasted by Sanjay into Megan's mouth I meant publically available records probably forever? whom the fuck would wipe that ?? ,
 
 1. that she's passed screenshots of my Twitter to her, from profile pictures of white kids who look like they're wtf??
 

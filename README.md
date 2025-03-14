@@ -97,7 +97,34 @@ BtTa30dQYyGZsrJbY75RhH47MLApuXIwbBC/TDQ5c2k2kW9VrzcupKUyhE1BIoB8
 =OIMW
 -----END PGP PUBLIC KEY BLOCK-----
 
+----
 
+bo@Mac encryption % python3.11 pgp_e.py SVR.gov.ru_PGP_public.asc 2025-3-14_stalingrad_flank.txt 
+/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pgpy/constants.py:192: CryptographyDeprecationWarning: IDEA has been deprecated and will be removed in a future release
+  bs = {SymmetricKeyAlgorithm.IDEA: algorithms.IDEA,
+/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pgpy/constants.py:194: CryptographyDeprecationWarning: CAST5 has been deprecated and will be removed in a future release
+  SymmetricKeyAlgorithm.CAST5: algorithms.CAST5,
+/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pgpy/constants.py:195: CryptographyDeprecationWarning: Blowfish has been deprecated and will be removed in a future release
+  SymmetricKeyAlgorithm.Blowfish: algorithms.Blowfish,
+Encrypted message:
+-----BEGIN PGP MESSAGE-----
+
+wcFMA7VTmX3XxxXGARAAxb0q6feohbFUTprpVkcmCuNvzUm5ILhkSUPZzN/d4UXj
+k7QCz4TM+63dcMKP2Zwd4Dr6uK6iqHFTijR7CDFU8Fg7tqrJBK/KC/Y9WtZjiPPd
+zJTt3eYjbnk75KF+KxeDQkh3r/+lwcIK2bj+adluVIIDY6tFmXrclCQkiqWFaoFK
+HuESZxRihlrFYOE+2LPQPk8jGSk/Q11Lyui6IayH6cS8CqQ5mD5kYkiEt5+5GLP3
+Gp/+Us7/NsKNWFe9+fPf/abIesn/psiyqH3wHj4kCKBADdgmUgSfYeatwjZBLyWD
+EQTdLGY90rmj1h+YH6MqGCgXGkKYeCEVuVaHi+2QRc1BU9pRtOn5lV6fOn4PUCHR
+EVsyXNMr7UfZDdv4Y6O/lfv3rBqOnocNEZBzhbhPcNIALUCj62zJhaVQlQyAJRR3
+PKLu2b4HONl2EikBRFSaKxb1iVt47Tz9nWNtbCzAsxWSjgMSpXPMfH6VzyGgcmZL
+ACoMVc9zL2B9bR3LWyBVMHSf8D+oNbolpyL5HBh6lDIxyDYSO0gcMRn/RccfPlJV
+7GOnSReRgwa+c2wc1o5jpmwbHpZfHACqIJmJooXpfNmhU3nJ2QdZ5+VTG8I+hH27
+iNlYFDnreQAO+INxWq9zgVUDSFgMPVlkjEoZfAU+JUdHaK97uEnee0oLu3pkX4PS
+KQEgrgms5CxQElDSF9EHtRMkNpdVTjaLmjnbUqekJ/pr48v8gZA39V8t
+=VXaS
+-----END PGP MESSAGE-----
+
+-----
 YOUR TERMINAL KEEPS A HISTORY THIS IS NOT SECURE, yet 
 
 <img width="567" alt="Screenshot 2025-03-13 at 6 45 31 AM" src="https://github.com/user-attachments/assets/412f156d-8597-4d8d-b13f-201f0c73ed9e" />

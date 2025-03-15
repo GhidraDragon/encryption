@@ -1,3 +1,10 @@
+![1742032094806](https://github.com/user-attachments/assets/11cef9d0-a8fc-496f-94d4-ecac4f3e5da8)
+
+![1742032094611](https://github.com/user-attachments/assets/f2ac6ec2-5889-4991-a232-17d6259e6e7a)
+
+![1742032094775](https://github.com/user-attachments/assets/3f4e2300-c972-4757-b3ad-113b3c810de4)
+
+
 bo@Mac encryption % python3.11 generate_rsa4096_pgp_keypair.py eggplant_emoji bo@shang.softare "MAGA" private.egg public.egg 
 /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pgpy/constants.py:192: CryptographyDeprecationWarning: IDEA has been deprecated and will be removed in a future release
   bs = {SymmetricKeyAlgorithm.IDEA: algorithms.IDEA,
